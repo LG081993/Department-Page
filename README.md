@@ -1,2 +1,2 @@
-Click here 
-https://github.com/LG081993/Department-Page.git
+Please Click here 
+https://lg081993.github.io/Department-Page/
